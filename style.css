@@ -26,6 +26,8 @@ h1 {
 
   position: relative;
 
+  width: fit-content;
+
   border: 2px solid red;
 }
 
